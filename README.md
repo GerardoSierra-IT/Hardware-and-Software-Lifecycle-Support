@@ -23,9 +23,9 @@ _**Completion State:**_ a formal policy is enacted, stakeholder buy-in is secure
 # Table of Contents
 
 - [Step 1](#vulnerability-management-policy-draft-creation)
-- [Step 2)](#step-2-mock-meeting-policy-buy-in-stakeholders)
+- [Step 2](#step-2-mock-meeting-policy-buy-in-stakeholders)
 - [Step 3](#step-3-policy-finalization-and-senior-leadership-sign-off)
-- [Step 4)](#step-4-mock-meeting-initial-scan-permission-server-team)
+- [Step 4](#step-4-mock-meeting-initial-scan-permission-server-team)
 - [Step 5](#step-5-initial-scan-of-server-team-assets)
 - [Step 6](#step-6-vulnerability-assessment-and-prioritization)
 - [Step 7](#step-7-distributing-remediations-to-remediation-teams)
